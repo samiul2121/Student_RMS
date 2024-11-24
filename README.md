@@ -34,7 +34,21 @@ Project Name: Student Result Management System
 
 
 
----
+ Table of Contents
+1. [Introduction](#introduction)  
+2. [Objectives](#Objectives)  
+3. [SDLC Phases](#sdlc-phases)  
+   - [Planning](#planning)  
+   - [Requirements Gathering & Analysis](#requirements-gathering--analysis)  
+   - [Design](#design)  
+   - [Development](#development)  
+   - [Testing](#testing)  
+   - [Deployment](#deployment)  
+   - [Maintenance](#maintenance)  
+4. Technology-used and benefits (Technology-used and benefits)  
+5. [Conclusion](#conclusion) 
+
+
 
 ## *Introduction*
 The *Student Result Management System (SRMS)* is a comprehensive solution for educational institutions to manage and publish student results efficiently. It automates result generation, reduces errors, and ensures secure access for students, teachers, and administrators.
